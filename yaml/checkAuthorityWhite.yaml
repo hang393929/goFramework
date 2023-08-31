@@ -1,0 +1,27 @@
+checkAuthorityWhite:
+- checklogin
+- user
+- userj
+- category
+- delallpush
+- delbind
+- screen/accountstotal
+- screen/fenstotal
+- screen/fensranklist
+- screen/fensplatformtotal
+- screen/playranklist
+- screen/playhistorytotal
+- screen/pushnewlist
+- screen/pushhistorytotal
+- callback_water
+- version
+- platformedit
+- screen/fensandplaytotal
+- platformalllist
+- unbinduser
+
+checkAuthorityNotSetToken:
+- cookie
+- conip
+- updateinfo
+- localcache
